@@ -53,11 +53,13 @@ Right panel: Fig_S5b.curv
 
 3. Visualization in Freeview  (example: Fig 2a & 2b)
    
-3.1 Figure 2a right two panels
+3.1 Figure 2a right three panels
 
 3.1.1 Clicking File and Load Surface to Load rh.pial_semi_inflated file
 
 <img width="416" height="193" alt="image" src="https://github.com/user-attachments/assets/b0938315-c4a8-470d-ae66-302e6d51a6eb" />
+
+
 
 <img width="416" height="201" alt="image" src="https://github.com/user-attachments/assets/55b91503-6c7e-4351-93f1-56ab9ec4cee4" />
 
@@ -84,6 +86,8 @@ Left View:
 3.2.1 Clicking File and Load Surface to Load rh.pial_semi_inflated file
 
 <img width="416" height="193" alt="image" src="https://github.com/user-attachments/assets/e439414d-6e80-4515-8190-06286e786ef3" />
+
+
 
 <img width="416" height="201" alt="image" src="https://github.com/user-attachments/assets/f8ca9693-631a-4dd1-addc-4d4a1ffd5257" />
 
