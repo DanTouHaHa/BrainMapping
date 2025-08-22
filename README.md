@@ -46,9 +46,9 @@ Right two panels: Fig_2b_right.curv
 
 2.3.3 Supplementary Figure 5
 
-Left panel: Fig_S5a.curv
+Figure S5a: Fig_S5a.curv
 
-Right panel: Fig_S5b.curv
+Figure S5b: Fig_S5b.curv
 
 
 3. Visualization in Freeview  (example: Fig 2a & 2b)
