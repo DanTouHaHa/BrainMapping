@@ -1,12 +1,6 @@
 Corrected Brain Surface Mapping Pipeline
 
-1. Environment
-   
-Server: XXX (please specify the server model)
-
-Operating System: XXXX
-
-Software:
+1. Software:
 
 MATLAB 2018b
 
